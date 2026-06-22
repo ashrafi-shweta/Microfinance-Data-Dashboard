@@ -3,10 +3,10 @@
 A dynamic corporate-level Excel data analytics dashboard built to monitor loan distributions, collection efficiency, and financial risk profiles. 
 
 ## 📊 Dashboard Preview
-![Dashboard Preview](Dashboard%20Preview.png)
+![Dashboard Preview](Dashboard Preview.png)
 
 ## 🛠️ Tech Stack & Features Used
-- *Power Query:* Data extraction, transformation, cleaning, and date modeling.
+- *Power Query:* Data extraction, transformation, cleaning, and data modeling.
 - *Power Pivot & Data Model:* To handle structural relational data tables smoothly.
 - *Advanced DAX Measures:* Used robust calculations instead of basic Excel formulas to prevent operational errors.
 - *Dynamic Slicers:* Connected reports uniformly for real-time month-over-month metric changes.
